@@ -1,1 +1,1 @@
-https://NotProtege.github.io/rsschool-cv/cv
+https://NotProtege.github.io/rsschool-cv/
